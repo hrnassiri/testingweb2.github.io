@@ -1,0 +1,30 @@
+figure{
+   width: 40%;
+   display: table;
+   float: left;
+}
+
+img{
+   width: 95%}
+
+figcaption{
+   color: magenta;
+   font-weight: bold;
+}
+
+h1{
+   padding: 10px;
+   color: Purple;
+   text-transform: uppercase;
+}
+
+h3{
+  padding: 10px;
+  background-color: black;
+  color: white;
+  width: 100%;
+  clear: left;}
+
+p{
+  clear: left;
+  margin: 3%;}

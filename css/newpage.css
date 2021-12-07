@@ -1,0 +1,21 @@
+table{
+   border: solid;
+   border-color: black;
+   width: 80%;
+   padding: 0px;
+}
+
+th, td{
+   border: solid;
+   border-color: red;
+   padding: 0px;
+}
+
+img.medium{
+    width: 100%;
+}
+
+
+
+
+

@@ -1,0 +1,37 @@
+h1{
+  font-family: Arial;
+  color: blue;
+  background-color: red;
+  width: 20%;
+  padding: 5%;
+  margin: 10px;
+  
+}
+
+p{
+  font-family: Georgia;
+  font-style: italic;
+  font-size: 20px;  
+  color: red;
+}
+
+a{
+color: pink;
+background-color: blue;
+padding: 5px;
+}
+
+img.medium{
+   width: 90%;
+}
+
+
+
+figure{
+ display: table;
+ float: left;
+ width: 40%;}
+
+h3{
+  clear: left;}
+

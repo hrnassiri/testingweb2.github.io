@@ -1,0 +1,22 @@
+.column{
+    
+    float: left;
+    width: 50%;
+    margin: 10px;
+    background-color: blue;}
+
+.column2{
+     float: right !important;
+     width: 30%;
+     margin: 5px;}
+
+p{
+    font-family: Georgia;
+    color: white;
+    background-color: black;
+    width: 40%;
+    padding: 1%;}
+
+ul{
+    float: right;
+    width: 30%;}
